@@ -22,6 +22,7 @@
 139 hip
 138 manet
 ```
+![image](https://github.com/user-attachments/assets/aa7234e4-e981-408c-93d9-76f0e526a9ef)
 
 ## Задача 3
 
