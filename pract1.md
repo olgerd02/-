@@ -35,6 +35,7 @@
 | Hello from RTU MIREA! |
 +-----------------------+
 ```
+![image](https://github.com/user-attachments/assets/3330892d-320f-4b2c-9622-db9c19719e5d)
 
 Перед отправкой решения проверьте его в ShellCheck на предупреждения.
 
