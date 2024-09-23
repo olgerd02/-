@@ -48,6 +48,7 @@
 ```
 h hello include int main n printf return stdio void world
 ```
+![image](https://github.com/user-attachments/assets/59586a6f-4306-4398-b108-3ff60751db36)
 
 ## Задача 5
 
@@ -60,26 +61,32 @@ h hello include int main n printf return stdio void world
 ```
 
 В результате для banner задаются правильные права доступа и сам banner копируется в /usr/local/bin.
+![image](https://github.com/user-attachments/assets/86890267-8a0d-4da0-8379-3a4c46b5c4b1)
 
 ## Задача 6
 
 Написать программу для проверки наличия комментария в первой строке файлов с расширением c, js и py.
+![image](https://github.com/user-attachments/assets/d615228a-f487-43a8-91fe-221a9172ff0f)
 
 ## Задача 7
 
 Написать программу для нахождения файлов-дубликатов (имеющих 1 или более копий содержимого) по заданному пути (и подкаталогам).
+![image](https://github.com/user-attachments/assets/ed875651-80d0-4971-85ff-f825912a80a8)
 
 ## Задача 8
 
 Написать программу, которая находит все файлы в данном каталоге с расширением, указанным в качестве аргумента и архивирует все эти файлы в архив tar.
+![image](https://github.com/user-attachments/assets/b885eae7-00bb-4109-a42d-71cbceca81d8)
 
 ## Задача 9
 
 Написать программу, которая заменяет в файле последовательности из 4 пробелов на символ табуляции. Входной и выходной файлы задаются аргументами.
+![image](https://github.com/user-attachments/assets/9abc5b16-5850-4bc7-8734-1a2cd58cddd1)
 
 ## Задача 10
 
 Написать программу, которая выводит названия всех пустых текстовых файлов в указанной директории. Директория передается в программу параметром. 
+![image](https://github.com/user-attachments/assets/e83db9d8-f2ab-4691-a11e-923e459598a3)
 
 ## Полезные ссылки
 
