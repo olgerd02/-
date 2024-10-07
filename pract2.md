@@ -7,6 +7,9 @@
 ## Задача 1
 
 Вывести служебную информацию о пакете matplotlib (Python). Разобрать основные элементы содержимого файла со служебной информацией из пакета. Как получить пакет без менеджера пакетов, прямо из репозитория?
+![image](https://github.com/user-attachments/assets/d1f6e59b-1483-40cd-b90d-d5d68d85d2bd)
+![image](https://github.com/user-attachments/assets/c6c731bc-8ec5-4b1f-a01d-e43054036382)
+
 
 ## Задача 2
 
