@@ -14,6 +14,9 @@
 ## Задача 2
 
 Вывести служебную информацию о пакете express (JavaScript). Разобрать основные элементы содержимого файла со служебной информацией из пакета. Как получить пакет без менеджера пакетов, прямо из репозитория?
+![image](https://github.com/user-attachments/assets/8b183ee5-f60f-4201-9ed3-4ed1dfdfefc4)
+![image](https://github.com/user-attachments/assets/54061d31-8f39-49ea-8d59-0c196c193727)
+
 
 ## Задача 3
 
