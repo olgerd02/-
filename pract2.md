@@ -21,6 +21,7 @@
 ## Задача 3
 
 Сформировать graphviz-код и получить изображения зависимостей matplotlib и express.
+
 ![dependencies](https://github.com/user-attachments/assets/7de1e4f2-71be-48bd-a05e-a72fd1d5eb1f)
 ![image](https://github.com/user-attachments/assets/8ef364f4-8948-4c87-a21e-bcc0c2224432)
 ![image](https://github.com/user-attachments/assets/e892a556-b9df-449e-a0b3-1b488f112a2e)
