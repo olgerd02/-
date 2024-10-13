@@ -65,6 +65,8 @@ shared 2.0.0 не имеет зависимостей.
 shared 1.0.0 зависит от target ^1.0.0.
 target 2.0.0 и 1.0.0 не имеют зависимостей.
 ```
+![image](https://github.com/user-attachments/assets/8fba0abf-09ff-41ee-90fa-eb95953f9e31)
+
 
 ## Задача 7
 
