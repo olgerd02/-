@@ -8,6 +8,7 @@
 
 ![image](https://github.com/user-attachments/assets/4c234fc0-b64d-43c8-8697-33b7f01dec91)
 
+'''
 \documentclass{article}
 \usepackage[T2A]{fontenc} % Поддержка кириллицы
 \usepackage[utf8]{inputenc} % Кодировка UTF-8
@@ -27,6 +28,7 @@
 \]
 
 \end{document}
+'''
 Прислать код на LaTeX и картинку-результат, где, помимо формулы, будет указано ФИО студента.
 
 ## Задача 2
