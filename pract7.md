@@ -67,10 +67,10 @@ Piazza -> Teacher: Оценка получена
 
 @enduml
 ```
-![plantuml](https://github.com/user-attachments/assets/14a217eb-6378-48ae-b62f-f4898e8916d5)
+![plantuml](https://github.com/user-attachments/assets/64c984af-3754-4e30-abfb-c919afc2e224)
+
 
 Используйте [онлайн-редактор](https://plantuml-editor.kkeisuke.com/).
-![plantuml](https://github.com/user-attachments/assets/b2b6b47c-b31b-438c-96e2-c54993b6b905)
 
 
 ## Задача 3
