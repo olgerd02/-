@@ -7,8 +7,7 @@
 Реализовать с помощью математического языка LaTeX нижеприведенную формулу:
 
 ![image](https://github.com/user-attachments/assets/4c234fc0-b64d-43c8-8697-33b7f01dec91)
-
-'''
+```
 \documentclass{article}
 \usepackage[T2A]{fontenc} % Поддержка кириллицы
 \usepackage[utf8]{inputenc} % Кодировка UTF-8
@@ -20,7 +19,7 @@
 \begin{document}
 
 \begin{center}
-    \textbf{Дудик Екатерина Сергеевна}
+    \textbf{Петрова Ольга Петровна}
 \end{center}
 
 \[
@@ -28,13 +27,46 @@
 \]
 
 \end{document}
-'''
+```
 Прислать код на LaTeX и картинку-результат, где, помимо формулы, будет указано ФИО студента.
 
 ## Задача 2
 
 На языке PlantUML реализовать диаграмму на рисунке ниже. Прислать текст на PlantUML и картинку-результат, в которой ФИО студента заменены Вашими собственными.
 Обратите внимание на оформление, желательно придерживаться именно его, то есть без стандартного желтого цвета и проч. Чтобы много не писать используйте псевдонимы с помощью ключевого слова "as".
+
+```
+@startuml
+
+' Убираем стандартный желтый цвет
+skinparam backgroundColor white
+skinparam sequenceArrowColor black
+skinparam actorBorderColor black
+skinparam participantBorderColor black
+skinparam noteBackgroundColor white
+skinparam noteBorderColor black
+
+' Псевдонимы
+actor "Студент Петрова О.П." as Student
+actor "Преподаватель" as Teacher
+participant "Piazza" as Piazza
+
+' Диаграмма
+Student -> Piazza: Публикация задачи
+Piazza -> Teacher: Задача опубликована
+Teacher -> Piazza: Поиск задач
+Piazza -> Teacher: Получение задачи
+Teacher -> Piazza: Публикация решения
+Piazza -> Student: Решение опубликовано
+Student -> Piazza: Поиск решений
+Piazza -> Student: Решение найдено
+Student -> Piazza: Публикация оценки
+Piazza -> Teacher: Оценка опубликована
+Teacher -> Piazza: Проверка оценки
+Piazza -> Teacher: Оценка получена
+
+@enduml
+```
 
 Используйте [онлайн-редактор](https://plantuml-editor.kkeisuke.com/).
 ![plantuml](https://github.com/user-attachments/assets/b2b6b47c-b31b-438c-96e2-c54993b6b905)
