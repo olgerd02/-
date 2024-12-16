@@ -7,6 +7,9 @@
 Реализовать с помощью математического языка LaTeX нижеприведенную формулу:
 
 ![image](https://github.com/user-attachments/assets/4c234fc0-b64d-43c8-8697-33b7f01dec91)
+
+![image](https://github.com/user-attachments/assets/3d16771a-c932-4eda-a010-3c83189b7b04)
+
 ```
 \documentclass{article}
 \usepackage[T2A]{fontenc} % Поддержка кириллицы
