@@ -67,7 +67,7 @@ Piazza -> Teacher: Оценка получена
 
 @enduml
 ```
-![plantuml](https://github.com/user-attachments/assets/64c984af-3754-4e30-abfb-c919afc2e224)
+![bLJBIiD05DtFLmpTkD8FS25LVq3G7nZJmGPhefCfWgi-e0eLt0ZkhE8Fn4UqBzDVkFD7dfc4ccAgba0ouPvxpptdX5GZBPHkdZGOM-FqHCyqD2sAAQ4fDstJmV6JtYWsBPm_JPz6dDvHdPYEUp4zUg74T5Xqx0UdGeaJVYYyuoCLDeFQRjW85J-l-reMwf4yQyh0azjAXUSPvB21dW9](https://github.com/user-attachments/assets/c3cc8abe-dae6-44ba-a167-49e8ec817374)
 
 
 Используйте [онлайн-редактор](https://plantuml-editor.kkeisuke.com/).
