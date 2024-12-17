@@ -81,7 +81,8 @@ Piazza -> Teacher: Оценка получена
 Описать какой-либо алгоритм сортировки с помощью noweb. Язык реализации не важен. Прислать nw-файл, pdf-файл и файл с исходным кодом. В начале pdf-файла должно быть указано ваше авторство. Добавьте, например, где-то в своем тексте сноску: \footnote{Разработал Фамилия И.О.}
 Дополнительное задание: сравните "грамотное программирование" с Jupyter-блокнотами (см. https://github.com/norvig/pytudes/blob/master/ipynb/BASIC.ipynb), опишите сходные черты, различия, перспективы того и другого.
 
-[bubble_sort.pdf](https://github.com/user-attachments/files/18139479/bubble_sort.pdf)
+[Sort_puzirik.pdf](https://github.com/user-attachments/files/18167099/Sort_puzirik.pdf)
+
 
 [Upldef bubble_sort(arr):
     n = len(arr)
