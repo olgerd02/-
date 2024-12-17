@@ -83,7 +83,7 @@ Piazza -> Teacher: Оценка получена
 
 [Sort_puzirik.pdf](https://github.com/user-attachments/files/18167099/Sort_puzirik.pdf)
 
-
+```
 [Upldef bubble_sort(arr):
     n = len(arr)
     for i in range(n):
@@ -92,7 +92,7 @@ Piazza -> Teacher: Оценка получена
                 arr[j], arr[j+1] = arr[j+1], arr[j]oading bubble_sort.txt…]()
 
 [Uploading bubble_sort.nw…]()
-
+```
 Все 3 файла: 
 [bubble_sort.zip](https://github.com/user-attachments/files/18139498/bubble_sort.zip)
 
